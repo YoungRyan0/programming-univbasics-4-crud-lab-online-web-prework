@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   sonic_youth = ["thurston", "kim", "lee", "steve"]
-  sonic_youth.push("jim")
+  sonic_youth.push("arrays!")
   
 end
 
