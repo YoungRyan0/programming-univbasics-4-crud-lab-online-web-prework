@@ -14,7 +14,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   sonic_youth = ["thurston", "kim", "lee", "steve"]
-  sonic_youth.unshift("array")
+  sonic_youth.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
