@@ -19,7 +19,7 @@ end
 
 def remove_element_from_end_of_array(array)
   sonic_youth = ["thurston", "kim", "lee", "steve"]
-  sonic_youth.pop("steve")
+  sonic_youth.pop("array")
 end
 
 def remove_element_from_start_of_array(array)
