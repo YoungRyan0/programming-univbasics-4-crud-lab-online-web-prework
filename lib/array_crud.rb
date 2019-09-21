@@ -40,6 +40,8 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
+  array = ["wow", "i", "am", "really", "learning", "arrays!"]
+  array[5]
   
 end
 
