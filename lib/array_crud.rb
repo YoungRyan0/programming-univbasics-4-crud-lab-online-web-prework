@@ -28,7 +28,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  sonic_youth = ["thurston", "kim", "lee", "steve"]
+  sonic_youth = ["thurston", "kim", "am", "steve"]
   sonic_youth[2]
   
 end
